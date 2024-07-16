@@ -8,4 +8,4 @@ The Quiz application includes questions related to the Raja Casablanca football 
 The development and commits of this project are documented in the Practicing Web Development repository. This repository is created solely for publishing the Quiz.
 
 # Usage
-To use the Weather App, visit the link: 
+To use the Weather App, visit the link: https://hassansamine.github.io/Raja-Quizz/
